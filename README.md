@@ -34,33 +34,8 @@
 
 ###
 
-<div align="left">
-<img alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img width="12" />
-<img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img width="12" />
-<img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img width="12" />
-<img alt="nodejs" height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-<img width="12" />
-<img alt="git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img width="12" />
-<img alt="github" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img width="12" />
-<img alt="Java" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,figma,git,github,linux,docker,kubernetes,java,aws,html,css)](https://skillicons.dev)
 
-
-
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
 
 ###
 
@@ -72,14 +47,10 @@
   <img src="https://streak-stats.demolab.com?user=BrunoMatoszk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<div align="center">
+<!-- ![Bruno Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMatoszk&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMatoszk&layout=compact) -->
 
 
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-
-
-
-</div>
 
 ###

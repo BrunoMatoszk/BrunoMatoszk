@@ -72,4 +72,14 @@
   <img src="https://streak-stats.demolab.com?user=BrunoMatoszk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<div align="center">
+
+
+
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+
+
+</div>
+
 ###
